@@ -1,6 +1,9 @@
+use marvel::ThreadPool;
+
 use std::io::prelude::*;
 use std::net::TcpStream;
 use std::net::TcpListener;
+use std::thread;
 use std::fs;
 
 fn main() {
