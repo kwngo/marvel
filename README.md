@@ -1,2 +1,3 @@
-# marvel
-🧟Simple web server written in Rust
+# Marvel
+Marvel is a simple web server written in Rust.
+
